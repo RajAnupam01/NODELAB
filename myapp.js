@@ -9,7 +9,7 @@ function myfunc(){
 }
 myfunc()
 // global.lib1()
-
++
   lib.lib1();
 library.lib1();
 
